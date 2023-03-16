@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\tip_donusum\bin\Debug\net7.0\tip_donusum.exe
+C:\Users\MONSTER\GitProject\tip_donusum\bin\Debug\net7.0\tip_donusum.deps.json
+C:\Users\MONSTER\GitProject\tip_donusum\bin\Debug\net7.0\tip_donusum.runtimeconfig.json
+C:\Users\MONSTER\GitProject\tip_donusum\bin\Debug\net7.0\tip_donusum.dll
+C:\Users\MONSTER\GitProject\tip_donusum\bin\Debug\net7.0\tip_donusum.pdb
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.dll
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\refint\tip_donusum.dll
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.pdb
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\tip_donusum.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\tip_donusum\obj\Debug\net7.0\ref\tip_donusum.dll
